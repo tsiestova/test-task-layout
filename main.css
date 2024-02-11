@@ -50,6 +50,7 @@ html, body {
 
 .main__content {
     background: rgba(250, 235, 215, 0.3);
+    overflow: hidden;
 }
 
 .header {
@@ -131,6 +132,7 @@ html, body {
 
     .page__inner {
         width: calc(100% - 320px);
+        height: 100vh;
     }
 
     .aside__wrap {
