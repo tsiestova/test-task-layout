@@ -36,6 +36,12 @@ html, body {
     scroll-behavior: smooth;
 }
 
+.main__content__wrap {
+    overflow-y: scroll;
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
 .header, footer {
     display: inline-block;
     text-align: center;
